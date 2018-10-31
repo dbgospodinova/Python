@@ -9,3 +9,4 @@ print(msg_caps)
 
 #Test JIRA integration
 #Test JIRA Development panel update
+#JIRA Automaticaly sync all repositories
