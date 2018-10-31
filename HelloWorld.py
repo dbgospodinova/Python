@@ -1,7 +1,7 @@
 #Standard print
 print("Hello World!")
 
-msg = "hello world! "
+msg = "hello world!"
 print(msg)
 
 msg_caps = msg.capitalize()
